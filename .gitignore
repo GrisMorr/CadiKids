@@ -1,0 +1,12 @@
+*.log
+**/.vs/
+**/packages/
+**/obj/
+**/bin/
+**/Debug/
+**/x64/
+**/*.csproj.user
+Cadikids/CADI.VC.db
+lib/
+Scripts/
+Release/
